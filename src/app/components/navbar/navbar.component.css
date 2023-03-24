@@ -1,0 +1,7 @@
+.spacer {
+  width: 100%;
+}
+
+.dropdown-item, .dropdown-toggle {
+  cursor: pointer;
+}
